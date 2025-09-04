@@ -31,7 +31,7 @@ float error;
 float center_position = 45;
 float derivative, previous_error;
 int base_speed = 250;
-int kp = 40;
+int kp = 8;
 int kd = 100;
 
 
